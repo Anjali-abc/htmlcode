@@ -1,0 +1,12 @@
+h1{
+	color: red;
+	text-align: center;
+	font-size: 50px;
+}
+tr{
+	background: lightcyan;
+}
+td{
+	color: blueviolet;
+	font-size:36px;
+}
